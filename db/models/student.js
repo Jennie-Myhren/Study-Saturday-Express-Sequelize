@@ -34,6 +34,4 @@ Student.beforeCreate(student => {
   );
 });
 
-Student.create();
-
 module.exports = Student;
